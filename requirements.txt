@@ -1,0 +1,7 @@
+fastapi
+uvicorn[standard]
+pydantic
+pydantic-settings
+httpx
+mcp
+google-genai>=0.1.0
